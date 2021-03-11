@@ -1,0 +1,16 @@
+{
+  "name": "migrate-to-owl-bot",
+  "version": "1.0.0",
+  "description": "migrate Node.js repositories to OwlBot",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "yargs": "^17.0.0-candidate.4"
+  }
+}
